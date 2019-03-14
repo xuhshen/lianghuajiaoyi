@@ -3,3 +3,6 @@
 "~$antitative Trading System.doc" 
 ~$antitative Trading System.doc 
 *.pyc 
+lhxt/log/* 
+lhxt/output/* 
+tuku/* 
