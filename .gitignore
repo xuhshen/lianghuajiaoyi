@@ -2,3 +2,4 @@
 .pydevproject 
 "~$antitative Trading System.doc" 
 ~$antitative Trading System.doc 
+*.pyc 
